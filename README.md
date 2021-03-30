@@ -1,4 +1,4 @@
-# ETHIndia
+# VAPIndia
 
 [Gitcoin](https://gitcoin.co) bounty information and issues related to [ETHIndia](https://ethindia.co)!
 
